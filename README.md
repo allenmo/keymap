@@ -2,7 +2,9 @@
 keymap using xmodmap, configure file
 
 The .Xmodmap file cofig your keyboard to the mapping like HHKB, AS Follow:
+
 1. swap CapsLock <---> Ctrl left key
+
 2. swap Esc <---> ` key(on the left of key '1')
 
 Configure step:
